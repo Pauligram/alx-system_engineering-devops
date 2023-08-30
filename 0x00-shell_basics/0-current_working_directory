@@ -1,9 +1,2 @@
 #!/bin/bash
-<<<<<<< HEAD
-pwd 0-current_working_directory
-=======
-# This script prints the absolute path name of the current working directory.
-current_dir=$(pwd)
-echo "Current working directory: $current_dir"
-
->>>>>>> f78984aaead0bfee5f4d552c12da531504cffb06
+pwd
